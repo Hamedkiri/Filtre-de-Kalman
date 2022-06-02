@@ -120,3 +120,5 @@ Les variables à initialiser lors d'une implémentation du filtre de Kalman sont
 Références:
 
 **https://automaticaddison.com/extended-kalman-filter-ekf-with-python-code-example/** Kalman étendu
+
+![kalman_illustration.jpg](./images/kalman_illustration.jpg)
