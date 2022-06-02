@@ -1,4 +1,12 @@
+
+
+![kalman_illustration.jpg](./images/kalman_illustration.jpg)
+
+
+
 # <h1> <strong> Filtre de Kalman et filtre de Kalman étendu</strong> </h1>
+
+
 
 ---
 
@@ -121,4 +129,4 @@ Références:
 
 **https://automaticaddison.com/extended-kalman-filter-ekf-with-python-code-example/** Kalman étendu
 
-![kalman_illustration.jpg](./images/kalman_illustration.jpg)
+
