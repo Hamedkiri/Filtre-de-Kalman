@@ -123,6 +123,8 @@ Les variables à initialiser lors d'une implémentation du filtre de Kalman sont
 
 # **Exemple d'application du filtre de Kalman**
 
+**On fait une simulation du déplacement d'un véhicule, en calculant ses vitesses. Et on se sert du filtre Kalman pour le tracker**
+
 ---
 
 Références:
